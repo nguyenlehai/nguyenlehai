@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hai Nguyen Le</h1>
+<p align="center">
+<a href="https://linkedin.com/in/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nguyenlehai" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/6028622" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6028622" height="30" width="30" /></a>
+<a href="https://fb.com/hzainguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hzainguyen" height="30" width="30" /></a>
+<a href="https://instagram.com/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nguyenlehai" height="30" width="30" /></a>
+<a href="https://medium.com/@nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nguyenlehai" height="30" width="30" /></a>
+<a href="https://app.codesignal.com/profile/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="" height="30" width="30" /></a>
+</p>
 <h3 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlehai" alt="nguyenlehai" /> </p>
@@ -19,11 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenlehai&show_icons=true" alt="nguyenlehai" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nguyenlehai" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/6028622" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6028622" height="30" width="30" /></a>
-<a href="https://fb.com/hzainguyen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hzainguyen" height="30" width="30" /></a>
-<a href="https://instagram.com/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nguyenlehai" height="30" width="30" /></a>
-<a href="https://medium.com/@nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nguyenlehai" height="30" width="30" /></a>
-<a href="https://app.codesignal.com/profile/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="" height="30" width="30" /></a>
-</p>
+
