@@ -20,7 +20,7 @@
 <a href="https://fb.com/nguyenlehaii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyenlehaii" height="30" width="40" /></a>
 <a href="https://instagram.com/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nguyenlehai" height="30" width="40" /></a>
 <a href="https://medium.com/@nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nguyenlehai" height="30" width="40" /></a>
-<a href="/https://app.codesignal.com/profile/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://app.codesignal.com/profile/nguyenlehai" height="30" width="40" /></a>
+<a href="https://app.codesignal.com/profile/nguyenlehai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://app.codesignal.com/profile/nguyenlehai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
