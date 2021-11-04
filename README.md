@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlehai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenlehai" /> </p>
 
-- 🔭 I’m currently working on **Bigtree Technology and Consulting Vietnam Co., Ltd.**
+- 🔭 I’m currently working on **Aimesoft JSC**
 
-- 🌱 I’m currently learning **RPA, AI**
+- 🌱 I’m currently learning **React Native, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nguyenlehai/](https://www.linkedin.com/in/nguyenlehai/)
 
