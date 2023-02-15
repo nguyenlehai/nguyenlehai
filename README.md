@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlehai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenlehai" /> </p>
 
-- 🔭 I’m currently working on **Aimesoft JSC**
+- 🔭 I’m currently working on **Eastgate Software**
 
-- 🌱 I’m currently learning **React Native, ReactJS**
+- 🌱 I’m currently learning **AWS, ReactJS/VueJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nguyenlehai/](https://www.linkedin.com/in/nguyenlehai/)
 
