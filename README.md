@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hai Nguyen Le</h1>
+<h1 align="center">Hi 👋, I'm Hai Nguyen Le (Paul)</h1>
 <h3 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlehai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenlehai" /> </p>
 
 - 🔭 I’m currently working on **Eastgate Software**
 
-- 🌱 I’m currently learning **AWS, ReactJS/VueJS**
+- 🌱 I’m currently learning **AWS, ReactJS/VueJS/NextJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nguyenlehai/](https://www.linkedin.com/in/nguyenlehai/)
 
