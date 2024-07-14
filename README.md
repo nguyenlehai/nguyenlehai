@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Viettel High Tech**
 
-- 🌱 I’m currently learning **AWS, ReactJS/NextJS**
+- 🌱 **AWS, ReactJS/NextJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nguyenlehai/](https://www.linkedin.com/in/nguyenlehai/)
 
