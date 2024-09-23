@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlehai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenlehai" /> </p>
 
-- 🔭 I’m currently working on **Viettel High Tech**
+- 🔭 I’m currently working on **Gojo Global Ptd. Lte.**
 
 - 🌱 **AWS, ReactJS/NextJS**
 
