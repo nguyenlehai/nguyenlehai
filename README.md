@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hai Nguyen Le (James)</h1>
+<h1 align="center">Hi 👋, I'm Hai Nguyen Le (Eric)</h1>
 <h3 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenlehai&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenlehai" /> </p>
